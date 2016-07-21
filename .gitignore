@@ -1,3 +1,4 @@
+.meteor/dev_bundle
 **/bin/**
 **/build/*
 **/node_modules/*
