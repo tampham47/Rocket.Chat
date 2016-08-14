@@ -152,3 +152,5 @@ underscorestring:underscore.string
 yasaricli:slugify
 yasinuslu:blaze-meta
 rocketchat:slashcommands-open
+rocketchat:internal-hubot
+meteorhacks:kadira

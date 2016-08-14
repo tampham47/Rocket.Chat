@@ -68,3 +68,5 @@ ecosystem.json
 pm2.json
 settings.json
 build.sh
+app-build/bundle/programs/server/node_modules
+_deploy
