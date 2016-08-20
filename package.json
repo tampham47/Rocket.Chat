@@ -4,7 +4,7 @@
     "start": "meteor run",
     "lint": "eslint .",
     "deploy": "npm run build && pm2 startOrRestart pm2.json",
-    "togoingsunny": "ssh -i _deploy/goingsunny.pem centos@52.221.229.162",
+    "togoingsunny": "ssh -i _deploy/goingsunny.pem centos@52.221.229.162"
   },
   "devDependencies": {
     "eslint": "^3.1.1"
